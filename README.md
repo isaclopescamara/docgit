@@ -1,1 +1,22 @@
 # doc_git
+
+git init: Ele inicia o arquivo / .git para controlar a pasta.
+
+git status: Ele é responsável por validar os arquivos modificados dentro do projeto.
+
+git add: Elé é responsável por colocar o arquivo modificado em uma área segura.
+
+Configuração do usuário do git:
+git config --global user.name "<seu_nome>"
+git config --global user.email "<seu_email>"
+
+git commit -m "<texto da modificação>": Ele é responsável por criar uma nova versão do projeto com as referências do criador.
+
+git log: Validar os meus comnetários e modificações.
+
+git checkout -b <nome_da_branch>: Cria uma nova branch ou ramo.
+
+git checkout <nome_da_branch>: Muda de branch/ramo.
+
+git merge <nome_da_branch>: Ele adiciona a branch atual o conteúdo de outra branch.
+
